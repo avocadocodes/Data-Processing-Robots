@@ -7,7 +7,7 @@
 3. [Windows] Install a terminal & shell tool like link:[GitBash](https://gitforwindows.org/)
 4. Install Jason:
 +
-### Unix and Windows::
+### Unix and Windows:
 +
 Download a Jason release from link:https://github.com/jason-lang/jason/releases[here] (download the file named `jason-bin-.....zip`) and decompress it. The zip file contains documentation, examples, and a sub-directory `bin` with the file *`jason`*. It is a unix executable file, if not, change its properties with `chmod +x jason`. Finally, link:https://www.computerhope.com/issues/ch000549.htm[adds the directory `bin` in your machine `PATH`] so that the command `jason` can be executed in a terminal. 
 
