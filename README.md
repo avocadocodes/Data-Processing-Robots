@@ -20,4 +20,4 @@ sudo apt update
 sudo apt install jason-cli
 ```
 
-To test the installation, run the command `jason --version` in a terminal. The output should be as follows:
+To test the installation, run the command `jason --version` in a terminal. 
